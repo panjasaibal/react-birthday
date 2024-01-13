@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-birthday/static/css/main.a03efa55.css",
+    "main.js": "/react-birthday/static/js/main.1d125102.js",
+    "static/js/787.1a50e16f.chunk.js": "/react-birthday/static/js/787.1a50e16f.chunk.js",
+    "static/media/img1.jpg": "/react-birthday/static/media/img1.0d6f14bfbb7872514f5e.jpg",
+    "static/media/birthday.jpg": "/react-birthday/static/media/birthday.3409d99e57931c6c9a3a.jpg",
+    "static/media/img2.jpg": "/react-birthday/static/media/img2.8fbe693222161aa4272d.jpg",
+    "static/media/img4.png": "/react-birthday/static/media/img4.abe69e684bc3a4f1a487.png",
+    "static/media/img3.jpg": "/react-birthday/static/media/img3.99698bb642a3b5aca427.jpg",
+    "static/media/img5.jpg": "/react-birthday/static/media/img5.8bb325f55a3887b71b94.jpg",
+    "index.html": "/react-birthday/index.html",
+    "main.a03efa55.css.map": "/react-birthday/static/css/main.a03efa55.css.map",
+    "main.1d125102.js.map": "/react-birthday/static/js/main.1d125102.js.map",
+    "787.1a50e16f.chunk.js.map": "/react-birthday/static/js/787.1a50e16f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a03efa55.css",
+    "static/js/main.1d125102.js"
+  ]
+}
